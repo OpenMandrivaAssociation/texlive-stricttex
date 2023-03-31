@@ -1,6 +1,6 @@
 Name:		texlive-stricttex
 Version:	56320
-Release:	1
+Release:	2
 Summary:	Strictly balanced brackets and numbers in command names
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stricttex
