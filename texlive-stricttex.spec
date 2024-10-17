@@ -3,7 +3,7 @@ Version:	56320
 Release:	2
 Summary:	Strictly balanced brackets and numbers in command names
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stricttex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stricttex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stricttex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stricttex.doc.r%{version}.tar.xz
